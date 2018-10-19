@@ -1,6 +1,7 @@
 #include "MyMath.h"
 namespace MyMath
 {
+	//Console
 	double MyMath::Operations::sum(double a, double b)
 	{
 		return a + b;
