@@ -2,6 +2,7 @@
 #define _MY_MATH_H_
 namespace MyMath
 {
+	//My class
 	class Operations
 	{
 	public:
