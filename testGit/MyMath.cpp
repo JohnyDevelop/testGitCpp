@@ -2,6 +2,7 @@
 namespace MyMath
 {
 	//Console reader
+	//Bag changed
 	double MyMath::Operations::sum(double a, double b)
 	{
 		return a + b;
