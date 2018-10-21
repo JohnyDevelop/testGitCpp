@@ -12,7 +12,7 @@ int main()
 	cout << MyMath::Operations::sub(10, 2) << endl;
 	cout << MyMath::Operations::mult(10, 2) << endl;
 	cout << MyMath::Operations::div(10, 2) << endl;
-
+	cout << "Hello, Dima" << endl;
 	_getch();
 	return 0;
 }
